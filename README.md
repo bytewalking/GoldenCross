@@ -1,8 +1,8 @@
-# MACD 股票交易回测系统
+# GoldenCross 量化交易&回测系统
 
 ## 项目简介
 
-本项目是一个基于 Python、Backtrader 和 yFinance 的 MACD 股票交易回测系统。它能够自动获取股票数据、计算 MACD 指标、生成交易信号，并使用
+本项目是一个基于 Python、Backtrader 和 yFinance 的 MACD 股票量化交易回测系统。它能够自动获取股票数据、计算 MACD 指标、生成交易信号，并使用
 Backtrader 进行策略回测，最终绘制交易信号和回测结果。
 
 该项目采用 模块化结构，使代码更易于维护和扩展，并支持命令行运行完整回测流程。
