@@ -7,7 +7,9 @@ Backtrader 进行策略回测，最终绘制交易信号和回测结果。
 
 该项目采用 模块化结构，使代码更易于维护和扩展，并支持命令行运行完整回测流程。
 
-![img.png](img/img.png)
+![img.png](doc/img/img.png)
+
+[量化交易基础知识](doc/basic_knowledge.md)
 
 ## 功能特点
 
